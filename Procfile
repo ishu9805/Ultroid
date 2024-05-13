@@ -1,1 +1,1 @@
-worker: python3 -m Ultroid
+worker: python3 -m pyUltroid
